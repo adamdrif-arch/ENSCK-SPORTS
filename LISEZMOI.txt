@@ -1,0 +1,9 @@
+1) Extraire TOUT le zip, puis double-cliquer sur index.html.
+Structure :
+ index.html          = page d'accueil
+ pages/              = toutes les autres pages (about = Le Bureau, basketball, football, volleyball, evenements, actualites, palmares, galerie, contact, espace-membre)
+ css/style.css       = design
+ js/script.js        = code + données de démo (textes, Instagram, TikTok, e-mail à modifier au début du fichier)
+ assets/logos/       = vos logos (déjà en place)
+ assets/images/      = vos photos : hero.jpg, basketball.jpg, football.jpg, volleyball.jpg, galerie-1.jpg à galerie-9.jpg, membre-1.jpg à membre-8.jpg
+ assets/icons/       = icônes (vide pour l'instant)
